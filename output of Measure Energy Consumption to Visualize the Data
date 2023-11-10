@@ -1,0 +1,24 @@
+# Measure energy consumption 
+# DATA CLEANING
+Missing Values : 
+Datetime    0
+AEP_MW      0
+dtype: int64
+Duplicate Values : 
+0
+# DATA ANALYSIS
+Summary Statistics : 
+                            Datetime         AEP_MW
+count                         121273  121273.000000
+mean   2011-09-02 03:17:01.553025024   15499.513717
+min              2004-10-01 01:00:00    9581.000000
+25%              2008-03-17 15:00:00   13630.000000
+50%              2011-09-02 04:00:00   15310.000000
+75%              2015-02-16 17:00:00   17200.000000
+max              2018-08-03 00:00:00   25695.000000
+std                              NaN    2591.399065
+# MODELLING
+Mean Squared Error: 6758395.805638685
+R-squared: 0.00270160624748228
+# DATA VISUALIZATION
+LinePlot :
