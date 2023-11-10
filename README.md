@@ -1,2 +1,0 @@
-# rajkumar
-Measure energy consumption 
